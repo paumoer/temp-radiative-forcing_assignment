@@ -1,8 +1,13 @@
-# temp-radiative-forcing_assignment
+# Temperature modeling from a class on Earth System Science
 This code provides a solution for an environmental sciences master course assignment, modeling temperature trends and the resulting radiative forcing.
 
 The assignment involved analyzing Berkeley Earth temperature anomaly data for an assigned country. Steps included data processing, calculating trends (running mean, decadal averages, linear fits), and modeling radiative forcing based on albedo variations. Results were interpreted in a report, assessing temperature projections, absorbed radiation, and climate implications for the country.
+## Files:
+- Python file
+- Temperature data
+- Resulting graphs
 
+Tasks:
 ## Part 1: Data Collection and Preparation 
 Read dates and monthly temperature anomalies into Python.
 Subset data to start from January 1960.
