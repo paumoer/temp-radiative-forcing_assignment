@@ -7,7 +7,6 @@ The assignment involved analyzing Berkeley Earth temperature anomaly data for an
 - Temperature data
 - Resulting graphs
 
-Tasks:
 ## Part 1: Data Collection and Preparation 
 Read dates and monthly temperature anomalies into Python.
 Subset data to start from January 1960.
